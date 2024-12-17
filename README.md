@@ -1,4 +1,4 @@
-<h1 align="center">💳 Loan Status Approval Classification</h1>
+<h1 align="center">💳 Loan Approval Status Classification</h1>
 
 <h2>📌 About the Project</h2>
 <p>
